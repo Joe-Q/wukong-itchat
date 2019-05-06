@@ -4,10 +4,17 @@
 
 ## 安装
 
-1. 先安装 wukong-robot 并运行，确保 wukong-robot 的版本 >= 1.5；
-2. 安装依赖：
+1.先安装wukong-robot并运行，确保wukong-robot的版本> = 1.5；
+
+2.克隆仓库：
+
+git clone https://github.com/wzpan/wukong-itchat.git
+
+3.安装依赖：
 
 ``` bash
+cd wukong-itchat
+
 pip3 install -r requirements.txt
 ```
 
